@@ -7,7 +7,7 @@ SeCoNet/
 │   └── vaccination.py        # Implementation of targeting heuristics (Degree, BC, PC, etc.)
 │
 ├── results/                  # Summarized simulation outputs & CSV datasets
-│   ├── README.md             # Data dictionary and directory guide
+│   ├── STRUCTURE.md          # Data dictionary and directory guide
 │   └── *.csv                 # Raw & aggregated scenario outputs (Mean ± SD)
 │
 ├── requirements.txt          # Python dependency specifications
